@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7410BF61-ADB5-4435-BC41-DA7F6692627F}|Animal Tests\\Animal Tests.csproj|c:\\users\\deros\\source\\repos\\cis_150\\animal kingdom\\animal tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7410BF61-ADB5-4435-BC41-DA7F6692627F}|Animal Tests\\Animal Tests.csproj|solutionrelative:animal tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|c:\\users\\deros\\source\\repos\\cis_150\\animal kingdom\\animal kingdom\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|solutionrelative:animal kingdom\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|c:\\users\\deros\\source\\repos\\cis_150\\animal kingdom\\animal kingdom\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|solutionrelative:animal kingdom\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|c:\\users\\deros\\source\\repos\\cis_150\\animal kingdom\\animal kingdom\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|solutionrelative:animal kingdom\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|c:\\users\\deros\\source\\repos\\cis_150\\animal kingdom\\animal kingdom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA63171F-8A75-48FF-95CB-4AE0E355E409}|Animal Kingdom\\Animal Kingdom.csproj|solutionrelative:animal kingdom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Animal Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Animal Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T15:33:49.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Fish.cs",
+              "RelativeDocumentMoniker": "Animal Kingdom\\Fish.cs",
+              "ToolTip": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Fish.cs",
+              "RelativeToolTip": "Animal Kingdom\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:50:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Bird.cs",
+              "RelativeDocumentMoniker": "Animal Kingdom\\Bird.cs",
+              "ToolTip": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Bird.cs",
+              "RelativeToolTip": "Animal Kingdom\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:47:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal Kingdom\\Animal.cs",
+              "ToolTip": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Animal.cs",
+              "RelativeToolTip": "Animal Kingdom\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:40:17.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Program.cs",
+              "RelativeDocumentMoniker": "Animal Kingdom\\Program.cs",
+              "ToolTip": "C:\\Users\\deros\\source\\repos\\CIS_150\\Animal Kingdom\\Animal Kingdom\\Program.cs",
+              "RelativeToolTip": "Animal Kingdom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:39:03.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal Kingdom", "Animal Kingdom\Animal Kingdom.csproj", "{FA63171F-8A75-48FF-95CB-4AE0E355E409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal Tests", "Animal Tests\Animal Tests.csproj", "{7410BF61-ADB5-4435-BC41-DA7F6692627F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA63171F-8A75-48FF-95CB-4AE0E355E409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA63171F-8A75-48FF-95CB-4AE0E355E409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA63171F-8A75-48FF-95CB-4AE0E355E409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA63171F-8A75-48FF-95CB-4AE0E355E409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7410BF61-ADB5-4435-BC41-DA7F6692627F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7410BF61-ADB5-4435-BC41-DA7F6692627F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7410BF61-ADB5-4435-BC41-DA7F6692627F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7410BF61-ADB5-4435-BC41-DA7F6692627F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
